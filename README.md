@@ -13,7 +13,7 @@ Passionate about low-level programming, system design, and problem solving.
 
 ## 🚀 Skills & Tools
 
-- **Languages**: C, Shell scripting
+- **Languages**: C/C++, Shell scripting
 - **Concepts**: Unix programming, multithreading, memory management, algorithms
 - **Tools**: Git, Valgrind, Makefile, GCC
 - **Cloud**: AWS Certified Cloud Practitioner
