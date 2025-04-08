@@ -6,7 +6,7 @@
 [![AWS Certified](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?logo=amazonaws)](https://www.credly.com/badges/7108b409-224b-4079-ac3c-1de9a560e616/public_url)
 ![Profile Status](https://komarev.com/ghpvc/?username=JeSapelHaz&color=blue)
 
-I'm a student at [Campus 19](https://19.edhec.edu/), part of the 42 Network.  
+I'm a student at [Campus 19](https://campus19.be//), part of the 42 Network.  
 Passionate about low-level programming, system design, and problem solving.
 
 ---
