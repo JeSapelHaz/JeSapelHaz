@@ -30,10 +30,10 @@ Passionate about low-level programming, system design, and problem solving.
 | **Born2beroot**  | Linux setup and system hardening            |
 | **Push_swap**    | Stack sorting with minimal operations       |
 | **So_long**      | 2D Game using MiniLibX                      |
-| **FdF**          | Wireframe viewer with 3D projection         |
+| **pipex**        | Pipes                                       |
 | **Philosophers** | Multithreading and synchronization          |
-| **Minishell**    | Unix shell with pipes, redirections, etc.  |
-| **Cub3D**        | 3D raycasting engine (like Wolfenstein 3D) |
+| **Minishell**    | Unix shell with pipes, redirections, etc.   |
+| **Cub3D**        | 3D raycasting engine (like Wolfenstein 3D)  |
 
 ---
 
