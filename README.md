@@ -16,7 +16,7 @@ Passionate about low-level programming, system design, and problem solving.
 - **Languages**: C/C++, Shell scripting
 - **Concepts**: Unix programming, multithreading, memory management, algorithms
 - **Tools**: Git, Valgrind, Makefile, GCC
-- **Cloud**: AWS Certified Cloud Practitioner
+- **Cloud**: AWS Certified Cloud Practitioner, Solutions Architect Associate
 
 ---
 
@@ -40,6 +40,7 @@ Passionate about low-level programming, system design, and problem solving.
 ## ☁️ Certifications
 
 - [**AWS Certified Cloud Practitioner**](https://www.credly.com/badges/7108b409-224b-4079-ac3c-1de9a560e616/public_url)
+- [**AWS Certified Solutions Architect – Associate**](https://www.credly.com/badges/d80853ae-77fd-4c75-959d-d965babe73bc/public_url)
 
 ---
 
