@@ -22,18 +22,25 @@ Passionate about low-level programming, system design, and problem solving.
 
 ## 📚 42 Projects Completed
 
-| Project          | Description                                 |
-|------------------|---------------------------------------------|
-| **Libft**        | Custom standard C library                   |
-| **GNL**          | File reading with static buffers            |
-| **ft_printf**    | Reimplementation of `printf`                |
-| **Born2beroot**  | Linux setup and system hardening            |
-| **Push_swap**    | Stack sorting with minimal operations       |
-| **So_long**      | 2D Game using MiniLibX                      |
-| **pipex**        | Pipes                                       |
-| **Philosophers** | Multithreading and synchronization          |
-| **Minishell**    | Unix shell with pipes, redirections, etc.   |
-| **Cub3D**        | 3D raycasting engine (like Wolfenstein 3D)  |
+| Project            | Description                                              |
+|--------------------|----------------------------------------------------------|
+| **Libft**          | Custom standard C library                                |
+| **GNL**            | File reading with static buffers                         |
+| **ft_printf**      | Reimplementation of `printf`                             |
+| **Born2beroot**    | Linux setup and system hardening                         |
+| **Push_swap**      | Stack sorting with minimal operations                    |
+| **So_long**        | 2D Game using MiniLibX                                   |
+| **pipex**          | Pipes                                                    |
+| **Philosophers**   | Multithreading and synchronization                       |
+| **Minishell**      | Unix shell with pipes, redirections, etc.                |
+| **Cub3D**          | 3D raycasting engine (like Wolfenstein 3D)               |
+| **CPP Module 00**  | Basics of C++: syntax, classes, member functions         |
+| **CPP Module 01**  | Memory allocation, references, pointers, std::string     |
+| **CPP Module 02**  | Ad-hoc polymorphism, operator overload, canonical classes|
+| **CPP Module 03**  | Inheritance, interfaces, file handling                   |
+| **CPP Module 04**  | Polymorphism, abstract classes, dynamic allocation       |
+| **NetPractice**    | Network exercises and subnetting challenges              |
+| **Webserv**        | HTTP web server in C++                                   |
 
 ---
 
