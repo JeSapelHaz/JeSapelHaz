@@ -13,10 +13,24 @@ Passionate about low-level programming, system design, and problem solving.
 
 ## 🚀 Skills & Tools
 
-- **Languages**: C/C++, Shell scripting
-- **Concepts**: Unix programming, multithreading, memory management, algorithms
-- **Tools**: Git, Valgrind, Makefile, GCC
-- **Cloud**: AWS Certified Cloud Practitioner, Solutions Architect Associate
+- **Languages**:  
+  ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
+  ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
+  ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
+  Shell scripting, Bash
+
+- **Concepts & Paradigms**:  
+  Unix programming, multithreading, memory management, OOP, design patterns, RESTful APIs, networking, sockets, concurrency, algorithms & data structures, debugging, system design
+
+- **Tools**:  
+  Git, Valgrind, Makefile, GCC, GDB, Docker, Vim/Neovim, VSCode
+
+- **Web & Networking**:  
+  HTTP, CGI, web server architecture, sockets, subnetting, Linux system administration
+
+- **Cloud**:  
+  AWS Certified Cloud Practitioner, Solutions Architect Associate
 
 ---
 
