@@ -51,7 +51,7 @@ Passionate about low-level programming, system design, and problem solving.
 | **NetPractice**  | Network exercises and subnetting challenges              |
 | **Webserv**      | HTTP/1.1 web server written in C++                       |
 | **Inception**    | Docker-based multi-service infrastructure                |
-| **ft_transcendence** | Full-stack web app with real-time Pong & chat        |
+| **ft_transcendence** | Full-stack web app with real-time                    |
  
 ---
  
