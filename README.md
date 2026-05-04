@@ -17,8 +17,6 @@ Passionate about low-level programming, system design, and problem solving.
 - **Tools:**  
   ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-  ![GDB](https://img.shields.io/badge/GDB-informational)
-  ![Valgrind](https://img.shields.io/badge/Valgrind-informational)
   ![Makefile](https://img.shields.io/badge/Makefile-informational)
   ![Vim](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=white)
   ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
