@@ -33,8 +33,6 @@ Passionate about low-level programming, system design, and problem solving.
 
 ### 🔵 Core Projects
 
-### 🔵 Core Projects
-
 | Project | Description |
 |---|---|
 | **Libft** | Custom standard C library |
